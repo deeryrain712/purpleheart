@@ -35,7 +35,6 @@ font-size:25pt;
 }
 .whya:before {
 content:"Why is it in form of MKV? ";
-font-weight:bold;
 color: #9D6EDB;
 }
 .whyb:after {
