@@ -35,10 +35,10 @@ font-size:25pt;
 }
 .whya:before {
 content:"Why is it in form of MKV? ";
-font-weight:bold;
+font-weight:950;
 color: #9D6EDB;
 }
 .whyb:after {
-font-weight:normal;  
+font-weight: 450;
 content:"Because the quality is bad so if it's made into hardsub (permanent), the subtitles will be hard to read and so that the subtitles can be saved in (.ass) form.";
 }
