@@ -39,5 +39,6 @@ font-weight:bold;
 color: #9D6EDB;
 }
 .whyb:after {
-content:"Because the quality is bad (360p) so if it's made into hardsub (permanent), the subtitles will be hard to read and so that the subtitles can be saved in (.ass) form.";
+font-weight:normal;  
+content:"Because the quality is bad so if it's made into hardsub (permanent), the subtitles will be hard to read and so that the subtitles can be saved in (.ass) form.";
 }
