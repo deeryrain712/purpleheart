@@ -41,6 +41,10 @@
   line-height:30px;
 }
 
+.jcal .jzdb:before {
+  opacity:0.3; 
+  content:'O';
+}
 
 .circle {
   border:0px solid #f7f3eb; 
@@ -58,18 +62,27 @@
 .datekg {  background:#3a68a1;  }
 .datetg {  background:#fd5051;  }
 .datejkg {  background:linear-gradient(to bottom, #720000, #3a68a1)  }
+.datetjkg {  background:linear-gradient(to bottom, #d61515, #3a68a1)  }
+.datetjtg {  background:linear-gradient(to bottom, #d61515, #fd5051)  }
 .datejtg {  background:linear-gradient(to bottom, #d4b37e, #fd5051)  }
 .datejtrg {  background:linear-gradient(to bottom, #720000, #988e76)  }
+.datejgk {  background:linear-gradient(to bottom, #720000, #ecd205)  }
+.datejgt {  background:linear-gradient(to bottom, #720000, #f3a1b8)  }
 .datektg {  background:linear-gradient(to bottom, #3a68a1, #fd5051)  }
+.datetgt {  background:linear-gradient(to bottom, #f3a1b8, #fd5051)  }
+.datekgt {  background:linear-gradient(to bottom, #3a68a1, #f3a1b8)  }
+.datetkjg {  background:linear-gradient(to bottom, #ecd205, #720000)  }
+.datetktg {  background:linear-gradient(to bottom, #ecd205, #fd5051)  }
+.datekgj {  background:linear-gradient(to bottom, #3a68a1, #d61515)  }
+.datekgtr {  background:linear-gradient(to bottom, #3a68a1, #988e76)  }
 .datektrg {  background:linear-gradient(to bottom, #3a68a1, #988e76)  }
-.datetjg {  background:linear-gradient(to bottom, #f3a1b8, #720000)  }
 .datejkt {  background:linear-gradient(to bottom, #e60c17, #ecd205, #f3a1b8)  }
 
 
 span[data-title]:hover:after, 
 div[data-title]:hover:after {
   font-size:11px;
-  font-family: Nunito, sans-serif;
+  font-family: Quicksand, sans-serif;
   font-weight:700; 
   content:attr(data-title); 
   position:absolute; 
