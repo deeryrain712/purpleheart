@@ -9,12 +9,12 @@
     color: white;
     border-radius: 12px;
     font-family: Quicksand; sans-serif;
-    font-weight: 700;
+    font-weight: 800;
 }
       @-webkit-keyframes btbg {
-        22% {
+        30% {
          background: #9D6EDB;
   		 color: white;
-            width: 26%;
+            width: 25%;
             }
 }
