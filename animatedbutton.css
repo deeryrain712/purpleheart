@@ -1,11 +1,11 @@
 .down {
     margin : auto;
-    width: 22%;
+    width: 30%;
     text-align: center;
     padding: 10px;
-    background: #6835ad;
-      -webkit-animation: btbg 6s infinite;
-      animation: btbg 6s infinite;
+    background: #9D6EDB;
+      -webkit-animation: btbg 5s infinite;
+      animation: btbg 5s infinite;
     color: white;
     border-radius: 12px;
     font-family: Quicksand; sans-serif;
@@ -14,7 +14,7 @@
       @-webkit-keyframes btbg {
         22% {
          background: #9D6EDB;
-  		 color: #26282f;
+  		 color: white;
             width: 26%;
             }
 }
