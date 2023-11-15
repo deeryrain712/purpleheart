@@ -1,0 +1,20 @@
+.down {
+    margin : auto;
+    width: 22%;
+    text-align: center;
+    padding: 10px;
+    background: #6835ad;
+      -webkit-animation: btbg 6s infinite;
+      animation: btbg 6s infinite;
+    color: white;
+    border-radius: 12px;
+    font-family: Quicksand; sans-serif;
+    font-weight: 700;
+}
+      @-webkit-keyframes btbg {
+        22% {
+         background: #9D6EDB;
+  		 color: #26282f;
+            width: 26%;
+            }
+}
